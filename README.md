@@ -1,2 +1,2 @@
 # Instalog
- Automted Instagram and Log-in
+ Automated Instagram and Log-in
